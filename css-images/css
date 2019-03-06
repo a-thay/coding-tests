@@ -1,0 +1,11 @@
+body {
+  background: #25A9FC;
+}
+
+.box {
+  position: relative;
+  margin: auto;
+  display: block;
+  background: white;
+  border: sold 4px red;
+}
